@@ -1,0 +1,30 @@
+"""Main application for graylark"""
+import asyncio
+from src.core.engine import process_data
+
+async def main():
+    print("graylark initialized")
+    await process_data()
+
+if __name__ == "__main__":
+    asyncio.run(main())
+// Update 12 Jan 2026 13:51:56
+// Update 12 Jan 2026 13:51:56
+// Update 12 Jan 2026 13:51:57
+// Update 12 Jan 2026 13:51:57
+// Update 12 Jan 2026 13:51:57
+// Update 12 Jan 2026 13:51:58
+// Update 12 Jan 2026 13:51:58
+// Update 12 Jan 2026 13:51:58
+// Update 12 Jan 2026 13:51:59
+// Update 12 Jan 2026 13:51:59
+// Update 12 Jan 2026 13:52:00
+// Update 12 Jan 2026 13:52:00
+// Update 12 Jan 2026 13:52:01
+// Update 12 Jan 2026 13:52:01
+// Update 12 Jan 2026 13:52:01
+// Update 12 Jan 2026 13:52:02
+// Update 12 Jan 2026 13:52:02
+// Update 12 Jan 2026 13:52:02
+// Update 12 Jan 2026 13:52:03
+// Update 12 Jan 2026 13:52:03
