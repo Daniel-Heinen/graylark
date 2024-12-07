@@ -8,3 +8,4 @@ def validate_coordinates(lat, lng):
 # Modified 2023-09-18
 # Modified 2024-04-23
 # Modified 2024-09-02
+# Modified 2024-12-07
